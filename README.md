@@ -6,7 +6,8 @@ Rock is represented by a clenched fist, paper by an open hand, and scissors by f
 
 The game is often used as a quick decision-making tool or a fun way to resolve disputes. It's also a popular game for children and adults alike due to its accessibility and the element of chance. Whether played for fun or to make quick decisions, Rock, Paper, Scissors continues to be a timeless and entertaining hand game.
 
-![1200px-Rock-paper-scissors svg](https://github.com/778569/Rock_Paper_Scissors-GamePython_Project_05_BiginnerLvl/assets/52319671/a841209d-144f-4bf7-86a4-d1519c13dc47)
+![sddefault](https://github.com/778569/Rock_Paper_Scissors-GamePython_Project_05_BiginnerLvl/assets/52319671/f13e7e83-4c65-42b6-8bf6-3b7b96e9bd3a)
+
 
 In here You Input Value 0 or 1 or 2 
 0- Rock
